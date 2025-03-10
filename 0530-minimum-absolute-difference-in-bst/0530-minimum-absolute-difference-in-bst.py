@@ -13,13 +13,13 @@ class Solution:
             if not node:
                 return
             
-            inorder(node.left)  # Traverse left subtree
+            inorder(node.left)  
             
             if self.prev is not None:
                 self.min_diff = min(self.min_diff, node.val - self.prev)
-            self.prev = node.val  # Update previous node value
+            self.prev = node.val  
             
-            inorder(node.right)  # Traverse right subtree
+            inorder(node.right)  
         
         inorder(root)
         return self.min_diff
