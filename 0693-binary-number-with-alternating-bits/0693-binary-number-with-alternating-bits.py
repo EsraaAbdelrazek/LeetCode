@@ -1,9 +1,11 @@
 class Solution:
     def hasAlternatingBits(self, n: int) -> bool:
         
-        c1 = bin (n).count ('11')
-        c2 = bin (n).count ('00')
-        if c1 or c2 : 
-            return False 
-        else : 
-            return True 
+        # c1 = bin (n).count ('11')
+        # c2 = bin (n).count ('00')
+        # if c1 or c2 : 
+        #     return False 
+        # else : 
+        #     return True 
+        x = n ^ (n >> 1)
+        return (x & (x + 1)) == 0
