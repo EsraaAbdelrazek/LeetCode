@@ -38,6 +38,7 @@
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [3567-convert-date-to-binary](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [3567-convert-date-to-binary](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3567-convert-date-to-binary) |
 <!---LeetCode Topics End-->
