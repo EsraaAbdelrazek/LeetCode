@@ -12,6 +12,7 @@
 | [0231-power-of-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
