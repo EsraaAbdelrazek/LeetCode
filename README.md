@@ -12,6 +12,7 @@
 | [0231-power-of-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -52,6 +54,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -59,5 +62,6 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
 | [3567-convert-date-to-binary](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3567-convert-date-to-binary) |
 <!---LeetCode Topics End-->
