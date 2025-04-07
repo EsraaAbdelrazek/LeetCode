@@ -31,12 +31,14 @@
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
