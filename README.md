@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [2465-shifting-letters-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
+| [2465-shifting-letters-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3567-convert-date-to-binary](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Greedy
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2465-shifting-letters-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
