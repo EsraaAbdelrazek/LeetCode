@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0260-single-number-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -153,4 +154,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
