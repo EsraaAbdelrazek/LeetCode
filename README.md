@@ -41,6 +41,7 @@
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 | [1656-count-good-triplets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1656-count-good-triplets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2249-count-the-hidden-sequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -62,6 +63,7 @@
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -134,6 +136,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
@@ -176,4 +179,12 @@
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
