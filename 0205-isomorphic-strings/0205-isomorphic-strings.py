@@ -1,18 +1,17 @@
-class Solution:
-    def isIsomorphic(self, s: str, t: str) -> bool:
-        if len(s) != len(t):
-            return False
-        
-        map_s_to_t = {}
-        map_t_to_s = {}
-
-        for char_s, char_t in zip(s, t):
-            if char_s in map_s_to_t and map_s_to_t[char_s] != char_t:
-                return False
-            if char_t in map_t_to_s and map_t_to_s[char_t] != char_s:
-                return False
-            
-            map_s_to_t[char_s] = char_t
-            map_t_to_s[char_t] = char_s
-        
-        return True
+class Solution(object):
+    def isIsomorphic(self, s, t):
+        map1 = []
+        map2 = []
+        print ("map1")
+        for char in s:
+            map1.append(s.index(char))
+            # print(s.index(char))
+            # print(map1)
+        print ("map2")
+        for char in t:
+            map2.append(t.index(char))
+            # print(t.index(char))
+            # print(map2)
+        if map1 == map2:
+            return True
+        return False
