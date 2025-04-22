@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
@@ -187,6 +189,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Linked List
 |  |
