@@ -31,6 +31,7 @@
 | [0338-counting-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Array
 |  |
@@ -89,6 +90,7 @@
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2050-count-good-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2650-split-with-minimum-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2998-count-symmetric-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -164,6 +166,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Indexed Tree
 |  |
@@ -205,4 +208,8 @@
 | [0383-ransom-note](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
