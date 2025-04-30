@@ -21,6 +21,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2659-number-of-even-and-odd-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
