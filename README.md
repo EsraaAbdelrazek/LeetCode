@@ -70,6 +70,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3183-find-the-k-or-of-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -179,6 +180,7 @@
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2650-split-with-minimum-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2650-split-with-minimum-sum) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Trie
 |  |
 | ------- |
