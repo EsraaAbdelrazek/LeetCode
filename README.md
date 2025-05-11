@@ -50,6 +50,7 @@
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1656-count-good-triplets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
