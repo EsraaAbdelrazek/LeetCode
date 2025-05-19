@@ -4,7 +4,7 @@ class Solution:
         nums = set (nums)
         for i in nums : 
             if (i -1) not in nums : 
-                length = 0 
+                length = 1 
                 while i + length in nums : 
                     length +=1 
                 longest  = max (length , longest ) 
