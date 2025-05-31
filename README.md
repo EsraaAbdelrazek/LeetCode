@@ -136,6 +136,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -329,6 +333,7 @@
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Queue
 |  |
 | ------- |
