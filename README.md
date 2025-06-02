@@ -53,6 +53,7 @@
 | [0073-set-matrix-zeroes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
@@ -224,6 +225,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0135-candy) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
