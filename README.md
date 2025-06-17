@@ -169,6 +169,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Binary Search
 |  |
@@ -289,6 +290,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
