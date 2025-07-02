@@ -43,6 +43,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -241,6 +242,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3567-convert-date-to-binary](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3618-find-the-original-typed-string-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -294,6 +296,7 @@
 | [2465-shifting-letters-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3618-find-the-original-typed-string-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Enumeration
