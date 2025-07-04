@@ -26,6 +26,7 @@
 | [3183-find-the-k-or-of-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -174,6 +175,7 @@
 | [3515-find-if-digit-game-can-be-won](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3548-find-the-count-of-good-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3567-convert-date-to-binary](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -216,6 +218,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2050-count-good-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
