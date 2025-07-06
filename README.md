@@ -75,6 +75,7 @@
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1656-count-good-triplets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -136,6 +137,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -366,6 +368,7 @@
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Counting
 |  |
 | ------- |
