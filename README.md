@@ -89,6 +89,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -214,6 +215,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2650-split-with-minimum-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -273,6 +275,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2650-split-with-minimum-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -356,6 +359,7 @@
 | [0868-push-dominoes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sliding Window
 |  |
