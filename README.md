@@ -266,6 +266,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2465-shifting-letters-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
