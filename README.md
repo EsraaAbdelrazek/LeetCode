@@ -97,6 +97,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -198,6 +199,7 @@
 | [2050-count-good-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2650-split-with-minimum-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2998-count-symmetric-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
