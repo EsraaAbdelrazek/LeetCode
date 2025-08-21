@@ -42,6 +42,7 @@
 | [0868-push-dominoes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -85,6 +86,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1656-count-good-triplets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -489,6 +491,7 @@
 | [0073-set-matrix-zeroes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -538,4 +541,12 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0867-new-21-game) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
