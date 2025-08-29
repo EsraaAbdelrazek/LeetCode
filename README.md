@@ -218,6 +218,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3548-find-the-count-of-good-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
