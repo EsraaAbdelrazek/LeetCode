@@ -25,6 +25,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2659-number-of-even-and-odd-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -388,6 +389,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -593,4 +595,8 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
