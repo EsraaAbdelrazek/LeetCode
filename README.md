@@ -110,6 +110,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -229,6 +230,7 @@
 | [1965-sum-of-digits-in-base-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2050-count-good-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2650-split-with-minimum-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2650-split-with-minimum-sum) |
@@ -500,6 +502,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Queue
@@ -607,6 +610,7 @@
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
