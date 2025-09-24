@@ -172,6 +172,7 @@
 | [0049-group-anagrams](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
@@ -221,6 +222,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0326-power-of-three) |
@@ -319,6 +321,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0049-group-anagrams) |
+| [0166-fraction-to-recurring-decimal](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
