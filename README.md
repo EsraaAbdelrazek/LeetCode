@@ -87,6 +87,7 @@
 | [0679-24-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -235,6 +236,7 @@
 | [0679-24-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0679-24-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -657,6 +659,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
