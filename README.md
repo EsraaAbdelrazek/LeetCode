@@ -91,6 +91,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1018-largest-perimeter-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -239,6 +240,7 @@
 | [0830-largest-triangle-area](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1448-maximum-69-number) |
@@ -299,6 +301,7 @@
 | [0611-valid-triangle-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -373,6 +376,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
