@@ -266,6 +266,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3548-find-the-count-of-good-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -583,6 +584,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3336-water-bottles-ii) |
 ## Graph
 |  |
 | ------- |
