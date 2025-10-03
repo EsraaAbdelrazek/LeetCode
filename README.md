@@ -80,6 +80,7 @@
 | [0260-single-number-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -566,6 +567,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -599,6 +601,7 @@
 | [0036-valid-sudoku](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -645,6 +648,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
