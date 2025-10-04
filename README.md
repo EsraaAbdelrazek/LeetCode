@@ -67,6 +67,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0037-sudoku-solver) |
@@ -377,6 +378,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -488,6 +490,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0611-valid-triangle-number) |
