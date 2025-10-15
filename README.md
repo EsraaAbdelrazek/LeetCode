@@ -164,6 +164,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -310,6 +311,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3827-implement-router) |
 ## Sorting
