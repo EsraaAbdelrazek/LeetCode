@@ -28,6 +28,7 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -57,6 +58,7 @@
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -381,6 +383,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -722,5 +725,6 @@
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
