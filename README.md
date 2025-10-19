@@ -370,6 +370,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -469,6 +470,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -677,6 +679,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -686,6 +689,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Backtracking
