@@ -222,6 +222,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2429-design-a-food-rating-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -271,6 +272,7 @@
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2050-count-good-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -480,6 +482,7 @@
 | [1656-count-good-triplets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -582,6 +585,7 @@
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -708,6 +712,7 @@
 | [0037-sudoku-solver](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Probability and Statistics
 |  |
 | ------- |
