@@ -51,6 +51,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -116,6 +117,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1656-count-good-triplets) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -390,6 +392,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -435,6 +438,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
