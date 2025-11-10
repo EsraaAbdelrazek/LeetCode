@@ -1,10 +1,13 @@
 class Solution:
-    def minOperations(self, nums: List[int]) -> int:
-        st=[-1]
-        op=0
-        for x in nums:
-            while x<st[-1]: st.pop()
-            if x>st[-1]:
-                op+=(x>0) 
-                st.append(x)
-        return op  
+    def minOperations(self, nums):
+        stack = [0] * (len(nums) + 1)
+        top = 0
+        ans = 0
+        for num in nums:
+            while stack[top] > num:
+                top -= 1
+                ans += 1
+            if stack[top] != num:
+                top += 1
+                stack[top] = num
+        return ans + top
