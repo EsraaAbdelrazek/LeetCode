@@ -43,6 +43,7 @@
 | [0338-counting-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0868-push-dominoes) |
@@ -92,6 +93,7 @@
 | [0368-largest-divisible-subset](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -397,6 +399,7 @@
 | [0205-isomorphic-strings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
+| [0474-ones-and-zeroes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0868-push-dominoes) |
