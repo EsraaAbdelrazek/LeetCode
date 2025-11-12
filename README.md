@@ -154,6 +154,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -305,6 +306,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2650-split-with-minimum-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2650-split-with-minimum-sum) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2998-count-symmetric-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -638,6 +640,7 @@
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Queue
 |  |
