@@ -99,6 +99,7 @@
 | [0611-valid-triangle-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0679-24-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0830-largest-triangle-area) |
