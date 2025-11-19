@@ -136,6 +136,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -247,6 +248,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -372,6 +374,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2650-split-with-minimum-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2650-split-with-minimum-sum) |
@@ -691,6 +694,7 @@
 | [2048-build-array-from-permutation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
