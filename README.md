@@ -186,6 +186,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3433-count-mentions-per-user](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -344,6 +345,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -412,6 +414,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3433-count-mentions-per-user](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -734,6 +737,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Graph
