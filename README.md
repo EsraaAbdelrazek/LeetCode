@@ -59,6 +59,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -328,6 +329,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2050-count-good-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -454,6 +456,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
