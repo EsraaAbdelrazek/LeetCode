@@ -113,6 +113,7 @@
 | [0830-largest-triangle-area](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -457,6 +458,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
