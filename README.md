@@ -115,6 +115,7 @@
 | [0940-fruit-into-baskets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -459,6 +460,7 @@
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -508,6 +510,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1448-maximum-69-number) |
