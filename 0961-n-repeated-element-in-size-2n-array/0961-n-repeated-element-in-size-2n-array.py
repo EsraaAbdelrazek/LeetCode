@@ -1,7 +1,7 @@
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
         st = set () 
-        st.add(-1)
+       
         for i in nums : 
             if i not in st : 
                 st.add(i) 
