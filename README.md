@@ -850,6 +850,7 @@
 ## Tree
 |  |
 | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -868,6 +869,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2092-find-all-people-with-secret) |
@@ -934,4 +936,8 @@
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
