@@ -131,6 +131,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1390-four-divisors) |
@@ -416,6 +417,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -605,6 +607,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-largest-magic-square) |
@@ -836,6 +839,7 @@
 | [0498-diagonal-traverse](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
