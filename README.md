@@ -253,6 +253,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3637-trionic-array-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3647-zero-array-transformation-iii) |
