@@ -224,6 +224,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -848,6 +849,7 @@
 | [2402-meeting-rooms-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
