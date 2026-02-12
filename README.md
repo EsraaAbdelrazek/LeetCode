@@ -1046,4 +1046,8 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
