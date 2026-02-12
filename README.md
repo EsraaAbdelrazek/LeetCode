@@ -370,6 +370,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0231-power-of-two) |
@@ -518,6 +519,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0342-power-of-four) |
@@ -771,6 +773,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0002-add-two-numbers) |
 | [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
