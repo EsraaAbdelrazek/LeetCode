@@ -356,6 +356,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -578,6 +579,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3713-longest-balanced-substring-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -667,6 +669,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
