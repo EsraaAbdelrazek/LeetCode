@@ -1,6 +1,11 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
-        binary_str = bin(n)[2:].zfill(32)   # Convert to binary and pad to 32 bits
-        reversed_str = binary_str[::-1]    # Reverse the string
-        return int(reversed_str, 2)        # Convert back to integer
+        binary_n = bin (n)[2:]
+
+        padded = binary_n .zfill (32) 
+
+        reversed_n = padded[::-1] 
+        num = int (reversed_n , 2 ) 
+
+        return num 
         
