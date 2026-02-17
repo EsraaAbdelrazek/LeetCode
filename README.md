@@ -20,6 +20,7 @@
 | [0342-power-of-four](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -988,6 +989,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
