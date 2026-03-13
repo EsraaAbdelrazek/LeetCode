@@ -238,6 +238,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -440,6 +441,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -480,6 +482,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -652,6 +655,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -890,6 +894,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
