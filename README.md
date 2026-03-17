@@ -178,6 +178,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -422,6 +423,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1965-sum-of-digits-in-base-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2050-count-good-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -514,6 +516,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -694,6 +697,7 @@
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-largest-magic-square) |
 | [2249-count-the-hidden-sequences](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -896,6 +900,7 @@
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -963,6 +968,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1975-maximum-matrix-sum) |
