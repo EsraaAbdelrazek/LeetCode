@@ -86,6 +86,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -218,6 +219,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2573-find-the-string-with-lcp](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -611,6 +613,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2573-find-the-string-with-lcp](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -668,6 +671,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2650-split-with-minimum-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -996,6 +1000,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1159,4 +1164,8 @@
 | [0620-not-boring-movies](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1193-monthly-transactions-i) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
