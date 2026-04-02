@@ -95,6 +95,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -258,6 +259,7 @@
 | [3379-transformed-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3433-count-mentions-per-user](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1015,6 +1017,7 @@
 | [2906-construct-product-matrix](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
