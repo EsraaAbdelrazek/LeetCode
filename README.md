@@ -143,6 +143,7 @@
 | [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -342,6 +343,7 @@
 | [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 | [0840-magic-squares-in-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -961,6 +963,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
