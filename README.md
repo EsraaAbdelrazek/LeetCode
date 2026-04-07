@@ -882,6 +882,7 @@
 | [1622-fancy-sequence](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3678-design-task-manager) |
@@ -968,6 +969,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-simple-bank-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
