@@ -184,6 +184,7 @@
 | [1635-number-of-good-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -1111,6 +1112,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2092-find-all-people-with-secret) |
@@ -1219,5 +1221,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
