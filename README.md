@@ -232,6 +232,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -384,6 +385,7 @@
 | [2402-meeting-rooms-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2615-sum-of-distances](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -763,6 +765,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2906-construct-product-matrix](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2906-construct-product-matrix) |
