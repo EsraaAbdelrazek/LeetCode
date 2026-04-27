@@ -1,53 +1,28 @@
-class UnionFind:
-    def __init__(self, m, n):
-        self.m, self.n = m, n
-        self.root = [i for i in range(m*n)]
-        self.size = [1] * (m*n)
-
-    def get_1d_index(self, x, y):
-        return (x * self.n) + y
-
-    def find(self, x):
-        if x != self.root[x]:
-            self.root[x] = self.find(self.root[x])
-        return self.root[x]
-
-    def union(self, r1, c1, r2, c2):
-        x, y = self.get_1d_index(r1, c1), self.get_1d_index(r2, c2)
-        rootX, rootY = self.find(x), self.find(y)
-        if rootX != rootY:
-            if self.size[rootX] >= self.size[rootY]:
-                self.root[rootY] = rootX
-                self.size[rootX] += self.size[rootY]
-            else:
-                self.root[rootX] = rootY
-                self.size[rootY] += self.size[rootX]
-
 class Solution:
     def hasValidPath(self, grid: List[List[int]]) -> bool:
-        m, n = len(grid), len(grid[0])
-        uf = UnionFind(m, n)
-        right_key, down_key = 'right', 'down'
-        connections = {
-            1: { right_key: set([1, 3, 5]), down_key: set([]) },
-            2: { right_key: set([]), down_key: set([2, 5, 6]) },
-            3: { right_key: set([]), down_key: set([5, 6, 2]) },
-            4: { right_key: set([1, 3, 5]), down_key: set([2, 5, 6]) },
-            5: { right_key: set([]), down_key: set([]) },
-            6: { right_key: set([1, 3, 5]), down_key: set([]) }
+        dirs = {
+            1: [(0,-1), (0,1)],
+            2: [(1,0), (-1,0)],
+            3: [(0,-1), (1,0)],
+            4: [(1,0), (0,1)],
+            5: [(-1,0), (0,-1)],
+            6: [(-1,0), (0,1)]
         }
 
-        for i in range(m):
-            for j in range(n):
-                # Right
-                ri, rj = i, j+1
-                if rj < n and grid[ri][rj] in connections[grid[i][j]][right_key]:
-                    uf.union(i, j, ri, rj)
+        m,n = len(grid), len(grid[0])
+        visited = set()
 
-                # Down
-                di, dj = i+1, j
-                if di < m and grid[di][dj] in connections[grid[i][j]][down_key]:
-                    uf.union(i, j, di, dj)
-
-        return uf.find(uf.get_1d_index(0, 0)) == uf.find(uf.get_1d_index(m-1, n-1))
-        
+        stack = [(0,0)]
+        while stack:
+            i,j = stack.pop()
+            if i == m-1 and j == n-1:
+                return True
+            visited.add((i,j))
+            for di, dj in dirs[grid[i][j]]:
+                ni = i + di
+                nj = j + dj
+                if ni < 0 or nj < 0 or ni == m or nj == n or (ni, nj) in visited:
+                    continue
+                if (di * -1, dj * -1) in dirs[grid[ni][nj]]:
+                    stack.append((ni, nj))
+        return False
