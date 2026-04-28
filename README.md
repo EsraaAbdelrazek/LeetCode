@@ -202,6 +202,7 @@
 | [1980-find-unique-binary-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -467,6 +468,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1965-sum-of-digits-in-base-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -567,6 +569,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1059,6 +1062,7 @@
 | [1895-largest-magic-square](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
