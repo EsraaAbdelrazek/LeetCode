@@ -638,6 +638,7 @@
 | [0657-robot-return-to-origin](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0778-reorganize-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -761,6 +762,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0796-rotate-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
