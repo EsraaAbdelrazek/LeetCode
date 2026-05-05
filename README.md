@@ -883,6 +883,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -922,6 +923,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0061-rotate-list) |
 | [0817-design-hashmap](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0817-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
