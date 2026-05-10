@@ -92,6 +92,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -251,6 +252,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
