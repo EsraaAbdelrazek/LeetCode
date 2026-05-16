@@ -134,6 +134,7 @@
 | [0120-triangle](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0135-candy) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
@@ -544,6 +545,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
