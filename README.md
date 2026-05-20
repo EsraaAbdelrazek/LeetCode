@@ -38,6 +38,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2659-number-of-even-and-odd-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -253,6 +254,7 @@
 | [2615-sum-of-distances](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -415,6 +417,7 @@
 | [2540-minimum-common-value](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/EsraaAbdelrazek/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
